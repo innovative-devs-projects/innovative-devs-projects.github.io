@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
 
 body {margin:0;}
 
@@ -33,4 +34,8 @@ body {margin:0;}
 
 #title {
   font-family: 'Tilt Neon', sans-serif;
+}
+
+#normalText {
+  font-family: 'Inter', sans-serif;
 }
